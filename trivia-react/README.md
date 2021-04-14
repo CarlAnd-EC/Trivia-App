@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Trivia App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Available to [try it](https://carlosaec-ks.github.io/Trivia-App/).
 
 ## Available Scripts
 
