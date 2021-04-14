@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>
+        <p>Created by Carlos Andrés Escalona Contreras</p>
+      </footer>
     </div>
   );
 }
