@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Trivia-App/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Trivia-App/static/js/main.a9f40b50.chunk.js",
-    "main.js.map": "/Trivia-App/static/js/main.a9f40b50.chunk.js.map",
-    "runtime-main.js": "/Trivia-App/static/js/runtime-main.9cdf583c.js",
-    "runtime-main.js.map": "/Trivia-App/static/js/runtime-main.9cdf583c.js.map",
-    "static/js/2.34be2a6d.chunk.js": "/Trivia-App/static/js/2.34be2a6d.chunk.js",
-    "static/js/2.34be2a6d.chunk.js.map": "/Trivia-App/static/js/2.34be2a6d.chunk.js.map",
-    "static/js/3.fd07ea6f.chunk.js": "/Trivia-App/static/js/3.fd07ea6f.chunk.js",
-    "static/js/3.fd07ea6f.chunk.js.map": "/Trivia-App/static/js/3.fd07ea6f.chunk.js.map",
+    "main.css": "/Trivia-App/static/css/main.8ef55f89.chunk.css",
+    "main.js": "/Trivia-App/static/js/main.3bf1eca9.chunk.js",
+    "main.js.map": "/Trivia-App/static/js/main.3bf1eca9.chunk.js.map",
+    "runtime-main.js": "/Trivia-App/static/js/runtime-main.c254699d.js",
+    "runtime-main.js.map": "/Trivia-App/static/js/runtime-main.c254699d.js.map",
+    "static/js/2.5ee4f3bf.chunk.js": "/Trivia-App/static/js/2.5ee4f3bf.chunk.js",
+    "static/js/2.5ee4f3bf.chunk.js.map": "/Trivia-App/static/js/2.5ee4f3bf.chunk.js.map",
+    "static/js/3.9aed8740.chunk.js": "/Trivia-App/static/js/3.9aed8740.chunk.js",
+    "static/js/3.9aed8740.chunk.js.map": "/Trivia-App/static/js/3.9aed8740.chunk.js.map",
     "index.html": "/Trivia-App/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Trivia-App/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.34be2a6d.chunk.js.LICENSE.txt": "/Trivia-App/static/js/2.34be2a6d.chunk.js.LICENSE.txt",
+    "static/css/main.8ef55f89.chunk.css.map": "/Trivia-App/static/css/main.8ef55f89.chunk.css.map",
+    "static/js/2.5ee4f3bf.chunk.js.LICENSE.txt": "/Trivia-App/static/js/2.5ee4f3bf.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Trivia-App/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cdf583c.js",
-    "static/js/2.34be2a6d.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a9f40b50.chunk.js"
+    "static/js/runtime-main.c254699d.js",
+    "static/js/2.5ee4f3bf.chunk.js",
+    "static/css/main.8ef55f89.chunk.css",
+    "static/js/main.3bf1eca9.chunk.js"
   ]
 }
